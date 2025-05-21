@@ -85,8 +85,8 @@ Execute the C Program for the desired output.
 
 ## OUTPUT
 
+![image](https://github.com/user-attachments/assets/0cf6dca2-1ae3-4c26-89e7-22c92c303968)
 
-![alt text](41.png)
 
 # RESULT:
 The programs are executed successfully.
